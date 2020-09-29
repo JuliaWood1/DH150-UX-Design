@@ -3,13 +3,14 @@
 ## by Julia Wood 
 
 This assignment I will be analyzing two wesbites to find flaws in their user experience by referring to Nielson’s 10 heuristics. According to my professor, Dr. Sookie Cho, "The 10 heuristics are a foundational checklist that most ux designers use to communicate the usability issues."
+
 The two websites I'm analyzing are: 
 1. 
 2. 
 
 | Nielson’s 10 Heuristics  | First Website | Second Website  | 
 | ------------- | ------------- | ------------- |
-| 1. Visibility of system status  | Content Cell  | Content Cell  | 
+| 1. Visibility of system status  | `problem one`<br/>`problem two`<br/>`severity rating: 1-3` | Content Cell  | 
 | 2. Match between system and the real world  | Content Cell  | Content Cell  | 
 | 3. User control and freedom | Content Cell  | Content Cell  | 
 | 4. Consistency and standards | Content Cell  | Content Cell  | 
