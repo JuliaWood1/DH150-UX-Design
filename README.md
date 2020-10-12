@@ -8,7 +8,9 @@ The two websites I'm analyzing are:
 1. ZARA [Link to ZARA US](https://www.zara.com/us/)  
 ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png "ZARA home page")
 
-2. Hautelook [Link to Hautelook](https://www.hautelook.com/)
+2. Hautelook [Link to Hautelook](https://www.hautelook.com/)  
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png "Hautelook home page")
+
 
 | Nielson’s 10 Heuristics  | First Website | Second Website  | 
 | ------------- | ------------- | ------------- |
