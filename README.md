@@ -4,12 +4,20 @@
 
 By the end of this class I will prototype an online retail website targeted at middle aged women. To start, I will analyze two potential competitors, Zara and Hautelook: both popular websites for women’s apparel. In order to complete this thorough User Experience analysis, I will be seeing how well each competing site abides by Nielson’s 10 heuristics for User Interface Design. According to an industry professional and UCLA instructor, Dr. Sookie Cho, "The 10 heuristics are a foundational checklist that most UX designers use to communicate the usability issues." My final website will have a minimalist yet colorful design where any user can easily find what they are looking for based on my understandable headers and external consistency. 
 
-The two websites I'm analyzing are: 
+#### The two websites I'm analyzing are: 
 1. ZARA [Link to ZARA US](https://www.zara.com/us/)  
 ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png "ZARA home page")
 
 2. Hautelook [Link to Hautelook](https://www.hautelook.com/)  
 ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png "Hautelook home page")
+
+#### Brief Information & Overall Evaluation of each site:
+1. ZARA  
+ZARA is a fast fashion company which produces clothing modeled off the latest styles in runway fashion. ZARA’s demographic of users ranges from young to old as they sell casual apparel at low cost as well as high-end professional items, like blazers.   
+NEED  OVERALL EVALUATION
+2. Hautelook  
+Hautelook, which is owned and run by Nordstorm, is a retail website that offers daily deals and sales only to their members. Hautelook is more specifically geared towards middle aged women because of the membership policy and the style of clothing.   
+NEED  OVERALL EVALUATION
 
 
 | Nielson’s 10 Heuristics  | First Website | Second Website  | 
