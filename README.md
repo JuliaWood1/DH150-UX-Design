@@ -96,5 +96,5 @@ Note: Within each store heuristic evaluation there will be a severity rating of 
 
 
 
-
+### Thank you so much for reading my analysis of ZARA and Hautelook based on Nielson's 10 User Interface Design Heuristics. Stay tuned as I work towardscreating my  own online shopping experience!
 
