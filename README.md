@@ -14,10 +14,10 @@ By the end of this class I will prototype an online retail website targeted at m
 
 
 #### Brief Information & Overall Evaluation of each site:
-    -  ZARA is a fast fashion company which produces clothing modeled off the latest styles in runway fashion. ZARA’s demographic of users ranges from young to old as they sell casual apparel at low cost as well as high-end professional items, like blazers.   
-NEED  OVERALL EVALUATION
 
-    - Hautelook, which is owned and run by Nordstorm, is a retail website that offers daily deals and sales only to their members. Hautelook is more specifically geared towards middle aged women because of the membership policy and the style of clothing.   
+ZARA is a fast fashion company which produces clothing modeled off the latest styles in runway fashion. ZARA’s demographic of users ranges from young to old as they sell casual apparel at low cost as well as high-end professional items, like blazers. The unique layout of their clothes does not maintain external consistency with other websites which can be confusing to first-time users. However, their aesthetic black and white coloring throughout paired with beautiful clothing pictures makes the sight very pleasant to browse. All in all, ZARA's website does a good job aiding the user in the process of online shopping by  offering sizing help, giving the user flexibility to naviagte the site, and communicating when an error has occured. That being said, I think ZARA has a great website, but they may have to compromise aspects of their distinctive design in  order for users to better understand their site.  
+
+Hautelook, which is owned and run by Nordstorm, is a retail website that offers daily deals and sales only to their members. Hautelook is more specifically geared towards middle aged women because of the membership policy and the style of clothing.   
 NEED  OVERALL EVALUATION
 
 
