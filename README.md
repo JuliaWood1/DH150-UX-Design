@@ -22,7 +22,7 @@ Hautelook, which is owned and run by Nordstorm, is a retail website that offers 
 NEED  OVERALL EVALUATION
 
 
-#### Heuristic Evaluation  
+## Heuristic Evaluation  
 Note: Within each store heuristic evaluation there will be a severity rating of how severe the usability issue is pertaining to each of the 10 heuristics on a scale of 1-3, where  3 is the most severe usability problem. The number will be at the beginning of the analysis in paranthesis, and if there is not a relevant usability issue there will be a (0) and I  will explain why the website did a good job following the specfic heuristic. 
 
 
@@ -35,7 +35,7 @@ Note: Within each store heuristic evaluation there will be a severity rating of 
     
 2. **Match between system and the real world** : The second heuristic is that interfaces should mimic the real world experience and speak the users’ language by using simple wording. In regards to online shopping this could mean filtering down to a specific type of clothing, like pants, where in-store a shopper could choose to only look in the pants section of the store.
 
-   - ZARA: (3) ZARA does not always speak the user’s language, instead they sometimes shorten words by taking out the vowels which is confusing. Some of their headers are confusing too, like ‘Licenses’ which is supposed to describe graphic tees that depict Disney characters. Additionally, they leave up items on their page that are sold out which is inconsistent with the real world because you will not be able to see items that are out of stock hanging on the shelves.
+   - ZARA: (3) ZARA does not always speak the user’s language, instead they sometimes shorten words by taking out the vowels which is confusing. Some of their headers are confusing too, like ‘Licenses’ which is supposed to describe graphic tees that depict Disney characters. Additionally, they leave up items on their page that are sold out which is inconsistent with the real world because you will not be able to see items that are out of stock hanging on the shelves. Here are some pictures: ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%205.00.43%20PM.png "ZARA surplus page")
 
    - Hautelook: (1) I think Hautelook’s website does a great job of using simple and easy to understand language throughout from their headings to checkout. They also use the commonly known cart icon which matches a real world shopping cart. One improvement that could be made regarding this heuristic is credit card visualizations in the checkout process, so the user could see where the numbers correlate to the location on a physical card,  but this is a minor  issue so for that reason the severity rating is only 1.  
 
