@@ -48,15 +48,27 @@ Note: Within each store cell there will be a severity rating of how severe the u
 
 
     
-2. 
-3. 
-4.  
-5. 
-6. 
-7.
-8. 
-9. 
-10. 
+2. **Match between system and the real world** : The second heuristic is that interfaces should mimic the real world experience and speak the users’ language by using simple wording. In regards to online shopping this could mean filtering down to a specific type of clothing, like pants, where in-store a shopper could choose to only look in the pants section of the store.
+
+   - Zara: (3) Zara does not always speak the user’s language, instead they sometimes shorten words by taking out the vowels which is confusing. Some of their headers are confusing too, like ‘Licenses’ which is supposed to describe graphic tees that depict Disney characters. Additionally, they leave up items on their page that are sold out which is inconsistent with the real world because you will not be able to see items that are out of stock hanging on the shelves.
+
+   - Hautelook: (1) I think Hautelook’s website does a great job of using simple and easy to understand language throughout from their headings to checkout. They also use the commonly known cart icon which matches a real world shopping cart. One improvement that could be made regarding this heuristic is credit card visualizations in the checkout process, so the user could see where the numbers correlate to the location on a physical card,  but this is a minor  issue so for that reason the severity rating is only 1.  
+
+3. **User control and freedom** : The third heuristic requires that the interface gives users an undo or escape button, so the user feels comfortable exploring the page knowing that they won’t get stuck on an undesired page. An example being a ‘remove from cart’ option during checkout.
+
+4. **Consistency and standards** : The fourth heuristic is that interfaces should strive for similarity to other websites because you want your user to have the easiest possible time navigating your sight. It also means that there should be consistency within the site, like buttons that will take you to a new page should all be the same color, so the user connects the color with action buttons. This means following standard UX conventions like the shopping cart icon being in the upper right hand corner of the page. 
+
+5. **Error Prevention** : The fifth heuristic requires that interfaces prevent users from making errors, especially errors that would encourage users to leave the site. This heuristic acknowledges that a user error is really a design flaw, not the fault of the user. An example of this is when a window pops up that asks, “Are you sure you want to remove this item from your cart?”.
+
+6. **Recognition rather than recall** : The sixth heuristic is that the interface should offer the user context cues, so the user has to rely less on their memory because the system employs options and icons that the user recognizes. In the world of online shopping this can mean showing the user how long until a current deal ends, so they don’t have to remember this information.
+
+7. **Flexibility and efficiency of use** : The seventh heuristic is that interfaces should offer users multiple ways to achieve the same outcome; this also means including shortcuts for experienced users. An example of this on retail websites, is having a heart icon next to every item so users can continue scrolling while adding clothes they like into a wishlist. This heart icon is a shortcut compared to adding an item to their wishlist by clicking on the specific item and then adding to wishlist or adding an item to a cart and then moving it into the wishlist.
+
+8. **Aesthetic and minimalist design** : This eighth heuristic guides UX designers towards minimalistic and aesthetically pleasing designs so as to not distract the user from completing their goals. On shopping websites this means focusing on the items for sale and not over-decorating the website to confuse the user.
+
+9. **Help users recognize, diagnose, and recover from errors** : The ninth heuristic requires that interfaces inform the user when an error has occurred and gives them solutions on how to quickly fix the problem. An example being when a user goes to add a t-shirt to their cart, and the system prompts them to pick a size because the user did not input this information.
+
+10. **Help and documentation** The tenth heuristic recognizes that sometimes the user will need help, and therefore the system should have a help page and/or a tutorial to aid the user in completing their tasks. Some online stores have a chat box that appears in the lower right hand corner asking if the user needs help completing any tasks which is a good example of a website employing this heuristic.
 
 
 
