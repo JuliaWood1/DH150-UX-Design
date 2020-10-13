@@ -36,3 +36,30 @@ Note: Within each store cell there will be a severity rating of how severe the u
 | 8. Aesthetic and minimalist design <br/> This eighth heuristic guides UX designers towards minimalistic and aesthetically pleasing designs so as to not distract the user from completing their goals. On shopping websites this means focusing on the items for sale and not over-decorating the website to confuse the user. | (1) While yes, ZARA’s site design is aesthetically minimalistic, it runs the risk of overwhelming the user with the wide variety of how they present their clothes. While scrolling through jackets, there may be a random oversized video of a model wearing a jacket. Thankfully, the video is also clickable to the page where you can look through more images of the jacket and add it to your cart. However, on this site what sometimes appears to be noise in the signal-to-noise ratio is actually signal; this is good only if the vast majority of users understand that it is clickable and not just an aesthetic video. I put this as a minor usability issue because overall the black-and-white design and layout of the website is minimalistic.   | (3) Hautelook is the opposite of a minimalist design because they always have about  50 active deals causing the drop-down menus to be overwhelmingly crowded. Below each item page they also have ‘Items you might like’ as well as reviews, which results in the pages being overwhelmingly long. The aesthetic is a little outdated as well, but this does not distract the user from completing tasks, I just  do not particularly like their design choices.   | 
 | 9. Help users recognize, diagnose, and recover from errors <br/> The ninth heuristic requires that interfaces inform the user when an error has occurred and gives them solutions on how to quickly fix the problem. An example being when a user goes to add a t-shirt to their cart, and the system prompts them to pick a size because the user did not input this information. | (1) Zara’s site does not let users proceed to the next part of the checkout without entering all the relevant information which becomes highlighted in red if the user clicks next without correctly filling it out.   | (2) The only issue I had regarding this heuristic was the lack of communication to a user that an item in their cart is no longer available. After 12 hours of inactivity on the site, I came back to find items missing from my cart. Other websites highlight these no-longer-available items in red to let the user know they are out of stock, whereas Hautelook just removed them from my cart with no messaging. However, Hautelook does inform the user of errors throughout the checkout process by highlighting missing fields in red, communicating to users when a page is missing, and offering solutions to these common errors. | 
 | 10. Help and documentation <br/> The tenth heuristic recognizes that sometimes the user will need help, and therefore the system should have a help page and/or a tutorial to aid the user in completing their tasks. Some online stores have a chat box that appears in the lower right hand corner asking if the user needs help completing any tasks which is a good example of a website employing this heuristic. | (0) Zara’s help page is great and obvious. The ‘HELP’ button is right next to the cart icon so users can easily access any information should they have a question. Within the Help page, a user can learn about the return policy, store location, payment and shipping options, and more. ZARA’s website also has an accessibility icon where the user can manipulate a myriad of features (like font sizing and coloring) to make their shopping experience more pleasant and understandable. | (1)  While Hautelook does have help pages where users can find information relevant to shipping, returns, and more the pages themselves are not easy to find. The action buttons linked to these pages are at the bottom of  pages that seem to scroll forever. These pages are only helpful if users can find them, so just based on the button location this is  a minor usability issue.  | 
+
+
+
+#### Heuristic Evaluation 
+1. **Visibility of system status** : The first heuristic evaluates how well the system shows the user that it understood the user’s action. An example for a shopping website being that when you add something to your cart it updates the number of items within the cart icon.
+
+      ZARA: (2)  When navigating Zara’s site it’s not always easy to tell if the next page is loading or if there is no next page because what you clicked on was not a link. A user should not have to guess what the system is doing, so this is a usability design flaw. However, the site does increment the number of items in the cart when you add something to your cart which is great in terms of system visibility. They also show you what step you are in the checkout process from shipping to payment to summary.   
+      
+      Hautelook: (2) Hautelook’s main images for several pages are the same, so when clicking through ‘Women’, ‘Men’, ‘All Events’ it may look as though the page isn’t changing at all. The change is only revealed if the user scrolls down and realizes there are different images than on the page before. This can be confusing to the user as one might not be sure if the page is frozen. However, when adding to cart not only do they increment the number of items in the cart, they also show you what's in your cart and the total, which is great. Additionally, when filtering down to specific items it shows you how many are now left based on your filters so you know how many items to expect. The site also puts banners beneath images when there is only  1 left which helps the user know how quickly they have to act. For these reasons, I think they need to make improvements regarding this heuristic, but they do an alright job of explaining the system status to the user.
+
+
+    
+2. 
+3. 
+4.  
+5. 
+6. 
+7.
+8. 
+9. 
+10. 
+
+
+
+
+
+
