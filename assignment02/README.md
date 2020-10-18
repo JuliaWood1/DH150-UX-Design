@@ -7,7 +7,8 @@ One paragraph explaining the purpose of UT, how & what you want to test especial
 In this assignment I will be conducting a pilot usability test on the website Hautelook. This is because at the end of this course I hope to design an online shopping experience targetted at middle aged women, and Hautelook is an online retail site used mainly by middle aged women. In Assignment 01, I completed a heuristic evaluation of the website, and I found that the website is difficult to navigate because it is over crowded with the multiude of daily deals. The three main heuristics I will be focusing on in this assignment are:
 1. Aesthetic and minimalistic design  
 2. Help and documentation   
-3. Visibility of system status  
+3. Visibility of system status
+
 While there were more clear usability issues, like Hautelook removing items from your cart that are no longer in stock or finding an item you viewed previously but didn't save, to test these I would want the user to leave the site and return severral hours later which I do not have thee luxury to do in this recorded pilot UT. 
 
 ## Survey 
