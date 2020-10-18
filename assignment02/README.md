@@ -13,7 +13,8 @@ In this assignment I will be conducting a pilot usability test on the website Ha
 3. Visibility of system status
     - I will test this by having the user notice differrences between the All Events, Women, and Men pages, as well as filter down items related to a specific criteria and add items to their cart. 
 
-While there were more clear usability issues, like Hautelook removing items from your cart that are no longer in stock with no  messaging or finding an item you viewed previously but didn't save, to test these I would want the user to leave the site and return several hours later which I do not have the luxury to do in this recorded pilot UT. 
+While there were more clear usability issues, like Hautelook removing items from your cart that are no longer in stock with no  messaging or finding an item you viewed previously but didn't save, to test these I would want the user to leave the site and return several hours later which I do not have the luxury to do in this recorded pilot UT.   
+The purpose of this Usability Test is to find and correct errors in Hautelook's user experience by having a user attempt to complete tasks on the website. This assignment will help me to analyze the issues with Hautelook's UX, so I do not make similar mistakes in my final project of creating a shopping website. The user testing this is my roommate, Katie, a 20 year old woman very comfortable with online shopping. This is for ease because there are no middle aged women I could get to participate in this usability test free of cost. 
 
 ## Survey 
 The link to your online survey (UT materials), share the survey with the instructor
