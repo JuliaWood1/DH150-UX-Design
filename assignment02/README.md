@@ -18,6 +18,7 @@ The purpose of this Usability Test is to find and correct errors in Hautelook's 
 
 ## Survey 
 The link to your online survey (UT materials), share the survey with the instructor
+[Survey Link](https://forms.gle/iNT8DqtcsufDY3p17)
 
 ## Pilot UT Video
 The link to your pilot UT video (e.g., youtube or google drive)*
