@@ -17,12 +17,13 @@ While there were more clear usability issues, like Hautelook removing items from
 The purpose of this Usability Test is to find and correct errors in Hautelook's user experience by having a user attempt to complete tasks on the website. This assignment will help me to analyze the issues with Hautelook's UX, so I do not make similar mistakes in my final project of creating a shopping website. The user testing this is my roommate, Katie, a 20 year old woman very comfortable with online shopping. This is for ease because there are no middle aged women I could get to participate in this usability test free of cost. 
 
 ## Survey 
-The link to your online survey (UT materials), share the survey with the instructor
+Here is a link to my Hautelook Usability Test made with Google Forms and shared with my instructor, Dr. Sookie Cho. 
 [Survey Link](https://forms.gle/iNT8DqtcsufDY3p17)
 
 ## Pilot UT Video
-The link to your pilot UT video (e.g., youtube or google drive)*
-If you have a special concern to share the video, please contact the instructor
+Here is the link to my pilot UT video on youtube. It is a screen recording of me, Julia Wood, modereating the Hautelook Usability test (linked above) on my participant, Katie Heckart.  
+The video is accessible to anyone with the link. 
+
 [Hautelook Usability Video](https://www.youtube.com/watch?v=11KFFk0Fj5k&feature=youtu.be)
 
 ## Reflection
