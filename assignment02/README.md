@@ -23,7 +23,7 @@ The link to your online survey (UT materials), share the survey with the instruc
 ## Pilot UT Video
 The link to your pilot UT video (e.g., youtube or google drive)*
 If you have a special concern to share the video, please contact the instructor
-[![Test Video](https://drive.google.com/file/d/12QoKCsynX3TuaF4eHxiF45c5sK6p1Nhb/view?usp=sharing)
+[![Hautelook Usability Video](https://www.youtube.com/watch?v=11KFFk0Fj5k&feature=youtu.be)
 
 ## Reflection
 One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
