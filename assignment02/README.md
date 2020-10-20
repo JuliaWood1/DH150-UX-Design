@@ -27,3 +27,9 @@ If you have a special concern to share the video, please contact the instructor
 
 ## Reflection
 One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
+
+I am going to reflect on Katie's experience with Hautelook and the usability test I made. Seeing that Katie is my best friend, I had to pause the recording in the beginning of the video had so I could collect myself because I began to laugh. In the future, with non-friend participants, laughing will not be an issue, however, I wanted to address it here. Now in regards to the test, the first error arose in my questioning of how often she uses the webite. The google form asked the participant, "If yes, how often do you use Hautelook's website?", and Katie had trouble answering this question because she used to use the site frequently, but she has not used it in several years. This made me realize that I need to improve the clarity of my questioning to maybe include how long ago the user last used this website and how often they used the website during the time period when the user frequented the website. The next question from the pre-test questions that I want to highlight is, "What do you think will happen and appear on the website if you select the tab 'MEN'?" This is because I suspected the user would have certain thoughts about it that  differ from how the actual site operates, which is confusing. When one clicks on the 'MEN' tab they do not arrive at 'All men's clothing' like Katie had suspected, but rather they arrive to a lengthy site filled with images for all the events (sales/deals) related to men, not actual Men's clothing.
+
+Now moving onto analyzing how Katie performed the tasks, and what that means in regards to Hautelook's usability based on Nielson'd 10 heuristics. 
+
+
