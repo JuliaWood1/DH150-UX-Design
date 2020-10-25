@@ -12,13 +12,7 @@ Tasks I completed:
 7) SD of perceived difficulty/ efficiency/ likelihood rating for each tasks
 8) Deviation ratio: Calculate the ratio between the performance time versus the given optimal performance time
 9) SUS score
-  - Recode data into 0-6
-  - Reverse even_number column data 
-  - Average all the data
-  - Convert into 100 point system (multiply 100/6)
 10) Visualization of Desirability test or Production Satisfaction Cards
-  - Lookup( ) to find the adjective that matches the number
-  - Use Voyant to visualize the word frequency as a pattern
 
 
 ## Google Sheets Data + Analysis
