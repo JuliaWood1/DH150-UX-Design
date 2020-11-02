@@ -22,7 +22,7 @@ I will be observing how a user online shops with the goal of sustainability in m
 The inquiry will take place in the user's place of residence. This is because the context of online shopping is normally at home. More specifically the inquiry will take place on a countertop where I can observe and record the user. 
 
 ## The Script
-link
+[Link to the Script](https://docs.google.com/document/d/1yetM-Jquu_ZREvwAwuUDdie76JQ46ypRMx6TMZkbThQ/edit?usp=sharing)
 
 ## The User Data
 
