@@ -10,8 +10,7 @@ I decided to narrow down my project focus from general online shopping to sustai
 ## Assignment Overview
 
 #### Design Challenge
-While online shopping has become the norm
-The focus of my research is to explore how easy it is for a user to find information regarding the sustainability of clothing they are shopping for. 
+As more consumers readjust their shopping habits to be more sustainable, I was curious to find out how users go about acquiring this information before-hand or in the process of shopping. The focus of my research is to explore how easy it is for a user to find information regarding the sustainability of clothing they are shopping for. 
 
 #### Target Users
 Middle aged women are the user perspective we are designing for throughout this course. In order to understand how this large group of people searches the web for sustainable clothing we have to collect user data from middle aged women of diverse backgrounds. If I had more time to conduct this contextual inquiry research I would interview women of varying professions, races, socio-economic statuses, religions, and more. However, due to COVID-19 I am quarantining with two 20 year old women, so they will have to step in as my users.  
@@ -30,7 +29,7 @@ The inquiry will take place in the user's place of residence. This is because th
 #### Video Recording
 [Link to the Video Recording](https://youtu.be/hQUqdbd_buw) 
 
-Note: This has taken much longer to upload then previous videos, so hopefully it is up by the time you (Instructor) see this, however, if it is not I can eemai lyou the video!
+Note: This has taken much longer to upload then previous videos, so hopefully it is up by the time you (Instructor) see this, however, if it is not I can email you the video!
 
 #### Screen Recording
 [Link to the Screen Recording](https://youtu.be/fC9H81naU4c) 
@@ -47,21 +46,20 @@ Note: This has taken much longer to upload then previous videos, so hopefully it
 > Consumers shopping with sustainability in mind, normally shop from brands they already trust. This means if brands are trying to appeal to the environmentally friendly market they should make their sustainability efforts known both on their home page and in their advertisements. 
 
 :three: When researching shopping sustainability, users want the information to be concise and reccomendation focused.
-> Websites ending in .gov or .edu tend to have a lot of information which can overwhelm the consumer who just wants to find actionable changes they can make in their shopping habits to reduce their carbon footprint. This frustration lead my user to gather her information from online blogs where the information is niceely formatted with lists and graphics.  
+> Websites ending in .gov or .edu tend to have a lot of information which can overwhelm the consumer who just wants to find actionable changes they can make in their shopping habits to reduce their carbon footprint. This frustration led my user to gather her information from online blogs where the information is displayed in easy-to-understand lists and graphics.  
 
 :four: Tailored ads are highly successful!  
-> This is a no brainer, but the information that users are shown online is individually tailored to them based on their activity. 
+> This is a no brainer, but the information that users are shown online is individually tailored to them based on their activity. If I were to devise a marketing campaign for my website, I would analyze data to find the most relevant segments of users to show my ad to. 
 
 ## Reflection
 
 I am very thankful to my user, Katie Heckart, for participating in this contextual inquiry. She is a very environmentally conscious shopper so she provided a lot of valuable information regarding the perspective of a consumer who prioritzes sustainability. I enjoyed this interview a lot because at it's core a contextual inquiry interview is a conversation. 
 
-- my user is on an extreme end of the spectrum, that more people will be gravitating towards over the next several years
-First I will talk about areas in my interviewing style where I can improve.  
+My user is highly aware of her environmental impact which differs from the average American consumer. However, in the coming years more and more people will be making efforts to live sustainably so her perspective was necessary to prepare for future changes in consumer attitudes.
 
-After conducting my contextual inquiry
-Summary of the process, what went smoothly or differently from your expectation
+Reflecting on the interview, I am reminded of the importance of how I word the questions. In the first question I swicthed 'sustainable' out for 'reducing carbon footprint' and my user commincated to me that because I said 'carbon footprint' this changed the nature of her search. That being said I have to be very careful about the wording of my questions, so the user completes the tasks I am interested in. However, during this experience I also just rephrased the desired question to my user, and she kindly performed another search with the more correct goals in mind. 
 
-Insights from data
-Lesson learned
+Another big takeaway from my interview was the importance of the source of the sustainability information. My user preferred sources who had no underlying motives; she was wary of information coming from for-profit institutions. She gravitated towards blogs to obtain the desired information which may be different from my target users of middle aged women. I will have to conduct another contextual inquiry (maybe with my mom over Thanksgiving Break) to see how another user would go about finding this information, and what sources she would trust. 
+
+
 
