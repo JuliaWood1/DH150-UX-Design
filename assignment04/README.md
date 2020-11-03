@@ -37,7 +37,25 @@ Note: This has taken much longer to upload then previous videos, so hopefully it
 #### Transcript
 [Link to the Transcript](https://docs.google.com/document/d/14sdSKkhdb8xaqzKtFq6BgMJ12GUsTyFARWrhm2INS4o/edit?usp=sharing)
 
+
+## Insights from the Interview
+:one: 
+> 
+
+:two: 
+> 
+
+:three: 
+> 
+
+:four: 
+> 
+
 ## Reflection
+
+I am very thankful to my user, Katie Heckart, for participating in this contextual inquiry. She is a very environmentally conscious shopper so she provided a lot of valuable informatio regarding the perspective of a consumr who prioritzes sustainability. I enjoyed this interview a lot because at it's core a contextual inquiry interview is a conversation. Now I will go over the valuable insights Katie provided me. 
+
+First I will talk about areas in my interviewing style where I can improve.  
 
 After conducting my contextual inquiry
 Summary of the process, what went smoothly or differently from your expectation
