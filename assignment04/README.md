@@ -30,7 +30,7 @@ The inquiry will take place in the user's place of residence. This is because th
 [Link to the Video Recording](https://youtu.be/hQUqdbd_buw) 
 
 #### Transcript
-link
+[Link to the Transcript](https://docs.google.com/document/d/14sdSKkhdb8xaqzKtFq6BgMJ12GUsTyFARWrhm2INS4o/edit?usp=sharing)
 
 ## Reflection
 
