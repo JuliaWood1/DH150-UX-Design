@@ -29,6 +29,8 @@ The inquiry will take place in the user's place of residence. This is because th
 #### Video Recording
 [Link to the Video Recording](https://youtu.be/hQUqdbd_buw) 
 
+Note: This has taken much longer to upload then previous videos, so hopefully it is up by the time you (Instructor) see this, however, if it is not I can eemai lyou the video!
+
 #### Screen Recording
 [Link to the Screen Recording](https://youtu.be/fC9H81naU4c) 
 
