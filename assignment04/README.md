@@ -10,6 +10,7 @@ I decided to narrow down my project focus from general online shopping to sustai
 ## Assignment Overview
 
 #### Design Challenge
+While online shopping has become the norm
 The focus of my research is to explore how easy it is for a user to find information regarding the sustainability of clothing they are shopping for. 
 
 #### Target Users
@@ -39,22 +40,23 @@ Note: This has taken much longer to upload then previous videos, so hopefully it
 
 
 ## Insights from the Interview
-:one: 
-> 
+:one: Sustainability is normally built in to the shopping method itself. 
+> The most important aspects of shopping sustainably, according to my user, and buying used and buying local. That being said these aspects are normally built into the shopping experience itself rather than specific to certain brands or online stores. Therefore, when constructing my online shopping site I should consider the customer's location and show them products in their area to reduce the negative environemntal impact regarding shipping. 
+  
+:two: Sustainabilty has to be a part of the company's branding for consumers to trust. 
+> Consumers shopping with sustainability in mind, normally shop from brands they already trust. This means if brands are trying to appeal to the environmentally friendly market they should make their sustainability efforts known both on their home page and in their advertisements. 
 
-:two: 
-> 
+:three: When researching shopping sustainability, users want the information to be concise and reccomendation focused.
+> Websites ending in .gov or .edu tend to have a lot of information which can overwhelm the consumer who just wants to find actionable changes they can make in their shopping habits to reduce their carbon footprint. This frustration lead my user to gather her information from online blogs where the information is niceely formatted with lists and graphics.  
 
-:three: 
-> 
-
-:four: 
-> 
+:four: Tailored ads are highly successful!  
+> This is a no brainer, but the information that users are shown online is individually tailored to them based on their activity. 
 
 ## Reflection
 
-I am very thankful to my user, Katie Heckart, for participating in this contextual inquiry. She is a very environmentally conscious shopper so she provided a lot of valuable informatio regarding the perspective of a consumr who prioritzes sustainability. I enjoyed this interview a lot because at it's core a contextual inquiry interview is a conversation. Now I will go over the valuable insights Katie provided me. 
+I am very thankful to my user, Katie Heckart, for participating in this contextual inquiry. She is a very environmentally conscious shopper so she provided a lot of valuable information regarding the perspective of a consumer who prioritzes sustainability. I enjoyed this interview a lot because at it's core a contextual inquiry interview is a conversation. 
 
+- my user is on an extreme end of the spectrum, that more people will be gravitating towards over the next several years
 First I will talk about areas in my interviewing style where I can improve.  
 
 After conducting my contextual inquiry
