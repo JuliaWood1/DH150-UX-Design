@@ -35,3 +35,8 @@ The inquiry will take place in the user's place of residence. This is because th
 ## Reflection
 
 After conducting my contextual inquiry
+Summary of the process, what went smoothly or differently from your expectation
+
+Insights from data
+Lesson learned
+
