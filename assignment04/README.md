@@ -27,7 +27,7 @@ The inquiry will take place in the user's place of residence. This is because th
 ## The User Data
 
 #### Video Recording
-[Link to the Video Recording](https://youtu.be/a-1fnvyDx8U) 
+[Link to the Video Recording](https://youtu.be/hQUqdbd_buw) 
 
 #### Transcript
 link
