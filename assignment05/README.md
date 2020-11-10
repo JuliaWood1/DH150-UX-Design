@@ -32,6 +32,8 @@
 
 #### Jane's Journey Map
 
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-10%20at%202.37.16%20PM.png "Jane's Journey Map")
+
 ### 2. Elijah's Scenario & Journey Map
 #### Why Elijah is using this product
 > This past weekend, Elijah went to his favorite Sunday Street Market with some of his friends from school. When he was browsing his favorite antique clothing stand, the woman working the stand told him all her inventory is now on an app along with other vendors at the market. Later that week when looking for professional clothing for his upcoming interview, he downloads the app to look for a vintage Tommy Hilfiger button down. 
