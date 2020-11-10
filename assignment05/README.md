@@ -37,7 +37,7 @@
 > This past weekend, Elijah went to his favorite Sunday Street Market with some of his friends from school. When he was browsing his favorite antique clothing stand, the woman working the stand told him all her inventory is now on an app along with other vendors at the market. Later that week when looking for professional clothing for his upcoming interview, he downloads the app to look for a vintage Tommy Hilfiger button down. 
 
 #### How Elijah is using this product
-> 
+> After he sets his location, he searches for 'Tommy Hilfiger button down' and several matching products come up as well as suggested products underneath them. In order to see where the products are located he selects 'Map View' in the top left of the screen. From here he changes his radius from 10 miles to 5 miles because he wants to bike to pick up his shirt after class one day. Within his new radius are two Tommy Hilfiger button downs as well as six other button downs. When he selects a clothing location point, a window on the bottom of screen pops up with a picture and information about the shirt, and he can scroll left or right to view more shirts. After he finds his desired shirt, he contacts the seller to set up a pick-up time for tomorrow afternoon. 
 
 
 #### Elijah's Journey Map
