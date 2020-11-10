@@ -1,5 +1,8 @@
 # Assignment 5: User Personas
 
+## by Julia Wood for DH150: User Experience Research & Design
+
+
 ## 📖 The Purpose of UX Storytelling
 * 
 
