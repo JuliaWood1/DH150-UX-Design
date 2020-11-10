@@ -1,5 +1,5 @@
 # Assignment 2: Pilot Usability Test
-## by Julia Wood for DH150: User Experience and Design
+## by Julia Wood for DH150: User Experience Research & Design
 
 ### My Project Focus: Women's Retail Sites 
 
