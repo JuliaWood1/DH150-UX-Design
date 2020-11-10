@@ -1,6 +1,6 @@
 # Assignment 4: Contextual Inquiry
 
-## by Julia Wood for DH 150: User Experience Design
+## by Julia Wood for DH150: User Experience Research & Design
 
 ### Central Project Focus Change: General online clothing shopping to sustainable online clothing shopping
 
