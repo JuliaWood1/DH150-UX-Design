@@ -4,7 +4,7 @@
 
 
 ## 📖 The Purpose of UX Storytelling
-* 
+> It's so important to understand your user before you design an experience for them. When designers do not take the time to truly undrstand what motivates their user, then they can miss important aspects that will encourage users to interact with their design. 
 
 ## 👤 Personas & Empathy Maps
 
