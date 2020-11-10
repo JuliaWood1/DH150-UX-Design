@@ -41,3 +41,5 @@
 
 
 #### Elijah's Journey Map
+
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-10%20at%2010.35.59%20AM.png "Elijah's Jounry Map")
