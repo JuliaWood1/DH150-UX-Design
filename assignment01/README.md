@@ -1,6 +1,8 @@
 # Assignment 1: Heuristic Evaluation
-## My Project Focus: Women's Retail Sites 
-### by Julia Wood for DH150: User Experience and Design
+
+## by Julia Wood for DH150: User Experience and Design
+
+### My Project Focus: Women's Retail Sites
 
 By the end of this class I will prototype an online retail website targeted at middle aged women. To start, I will analyze two potential competitors, Zara and Hautelook: both popular websites for women’s apparel. In order to complete this thorough User Experience analysis, I will be seeing how well each competing site abides by Nielson’s 10 heuristics for User Interface Design. According to an industry professional and UCLA instructor, Dr. Sookie Cho, "The 10 heuristics are a foundational checklist that most UX designers use to communicate the usability issues." My final website will have a minimalist yet colorful design where any user can easily find what they are looking for based on my understandable headers and external consistency. 
 
