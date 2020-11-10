@@ -1,6 +1,6 @@
-# Assignmemnt 03: UT Analysis
+# Assignment 03: Usability Test (UT) Data Analysis
 
-In this assignment, I analyze the data collected during 20 usability test sessions of how people use the UCLA library website (super relevant to me because I work at UCLA Libraries). This assignment allowed me to understand UT data and practice the analysis, so I can utilize these quantitative analysis skills when I am working with my own UT data in the future.
+In this assignment, I analyzed the data collected during 20 usability test sessions of how people use the UCLA library website (super relevant to me because I work at UCLA Libraries). This assignment allowed me to understand UT data and practice the analysis, so I can utilize these quantitative analysis skills when I am working in the future.
 
 Tasks I completed:
 1) Total number of participants
