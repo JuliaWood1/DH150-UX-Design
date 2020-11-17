@@ -29,16 +29,16 @@ All wireframes and wireflows can be found [here](https://docs.google.com/present
 
 ### Notes on Wireflow Test
 
-**Task 1: Look at available clothing near by in Map View.  **
+**Task 1: Look at available clothing near by in Map View.**
 >  When I asked the user to view nearby clothing in Map View she said that she would click on the location tab and circled it in the third wireframe on the upper row. This reaffirmed my belief that it was necessary that the location tab was included in my bottom menu because the user quickly found that feature and immediately understood its use. 
 
-**Task 2: Purchase a dress.  **
+**Task 2: Purchase a dress.**
 > When I instructed the user to purchase a dress, she started on the home page and clicked on the clothing tab. From here she correctly added the dress to her cart, and went to checkout. However, when in checkout she navigated the two steps backwards. She first went to payment information and then the pick-up/delivery step of the checkout process. This was surprising to me because they are ordered, but this makes me have to consider if I should reorder the steps of my process so users are more familiar with the order of checkout. 
 
-**Task 3: Upload clothing to sell. **
+**Task 3: Upload clothing to sell.**
 > As for uploading clothing to sell, Rojin understood that the middle camera icon would enable her to upload photos of clothing or items she wanted to sell. However, I am curious to know if this icon would symbolize the same meaning to users of older ages. While Rojin easily navigated through the process of posting an item to sell, she was confused by it’s ending because she knew there were more steps to the posting process because of the progress bar at the top, but no wireframe did she come next in the flow. For my hard fidelity prototype I will further develop this posting an item to sell feature so a user can complete a full posting.
 
-**Task 4: Filter your clothing by location and price. **
+**Task 4: Filter your clothing by location and price.**
 > Rojin initially jumped to the filter wireframe for this test, so I re-directed her to start at the home page, which is the top left wireframe. From here she indicated she would use the search bar to first filter down her search before using the filter and sort options on the second wireframe (first row, second column). This made me consider that maybe I need more specific categories in my initial home page or maybe have another similar scrolling page within each main category of subcategory options such as “shirts”, ‘jackets’, ‘pants’, ‘skirts’ within the clothing tab.
 
 
