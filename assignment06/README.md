@@ -42,6 +42,6 @@ All wireframes and wireflows can be found [here](https://docs.google.com/present
 > Rojin initially jumped to the filter wireframe for this test, so I re-directed her to start at the home page, which is the top left wireframe. From here she indicated she would use the search bar to first filter down her search before using the filter and sort options on the second wireframe (first row, second column). This made me consider that maybe I need more specific categories in my initial home page or maybe have another similar scrolling page within each main category of subcategory options such as “shirts”, ‘jackets’, ‘pants’, ‘skirts’ within the clothing tab.
 
 
-The user successfully completed all components of all of the tasks in this low-fidelity prototype test. 
+The user successfully completed all components of all of the tasks in this low-fidelity prototype test. Any confusions were explained above. 
 
 ## Reflection
