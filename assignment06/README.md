@@ -45,3 +45,6 @@ All wireframes and wireflows can be found [here](https://docs.google.com/present
 The user successfully completed all components of all of the tasks in this low-fidelity prototype test. Any confusions were explained above. 
 
 ## Reflection
+My main concern with my low-fideltiy prototype is that I did not test it on a wide variety of users. Thankfullly I tested it on a 20-yr old woman, but then I again I think  
+
+
