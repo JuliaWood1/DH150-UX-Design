@@ -14,9 +14,9 @@
 
 ## Wireframes & Wireflows
 
-5 basic wireframes from this prototype are available to download in PDF form [here](https://drive.google.com/file/d/1dgxJxHLlqSpeau1Mgt2NmtKaLJ491fEM/view?usp=sharing).
+5 basic wireframes from this prototype are available to download in PDF form [here]().
 
-All wireframes and wireflows can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
+All wireframes and wireflows can be found [here]().
 
 ### Notes on Wireflow Test
 
