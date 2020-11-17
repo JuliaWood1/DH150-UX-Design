@@ -7,7 +7,7 @@
 
 **Purpose:** 
 
-**User Personas:** 
+**User Personas:** Our class focus user persona is a middle aged woman, however in the creation of this mobile sustainable marketplace I also had to consider the perspectives of possible sellers that would post clothing on this site. Possible sellers on this site
 
 **Features & Tasks:** 
 
@@ -23,10 +23,16 @@ All wireframes and wireflows can be found [here]().
 **Task 1: Look at available clothing near by in Map View.  **
 >
 
-**Task 2: Upload clothing to sell. **
+**Task 2: Purchase a dress.  **
 >
-**Task 3: Filter accessories by location and price. **
+
+**Task 3: Upload clothing to sell. **
 >
+
+**Task 4: Filter your clothing by location and price. **
+>
+
+
 The user successfully completed all components of all of the tasks in this low-fidelity prototype test. 
 
 ## Summary
