@@ -20,12 +20,12 @@ All wireframes and wireflows can be found [here]().
 
 ### Notes on Wireflow Test
 
-**Task 1: **
+**Task 1: Look at available clothing near by in Map View.  **
 >
 
-**Task 2: **
+**Task 2: Upload clothing to sell. **
 >
-**Task 3:**
+**Task 3: Filter accessories by location and price. **
 >
 The user successfully completed all components of all of the tasks in this low-fidelity prototype test. 
 
