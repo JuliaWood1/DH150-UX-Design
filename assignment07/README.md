@@ -8,6 +8,8 @@ coming soon
 
 #### Graphic Design
 
+[Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR) is where you can find my wireframes that perform three features of my app, Bool. 
+
 #### Impression Test
 
 #### Accessibility Check 
