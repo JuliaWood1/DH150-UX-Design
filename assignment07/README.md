@@ -16,6 +16,8 @@ When choosing my color scheme I wanted it to be bright and fun while also consid
 
 Based on feedback from my participants in the early stages of designing, I wanted to make my app as easy and familiar to understand as possible. That being said I maintained external consistency throughout my app my putting familiar icons in the right places: the shopping bag in the upper lefthand corner, filter and sort in the upper right of the screen, search bar at the top, bottom naviagtion with home on the left and profile on the right. I also made my main home page a scrolling menu for shoppers to be able to see all the different things available on the site. 
 
+All my main action buttons are purple, and then supplementary action buttons are yellow to maintain internal consistency. Furthermore, I incorporated pop-up windows when the user is progressing through the selling process to prevent users from making mistakes and deleting posts. For the map view, I though it would be most inuitive for a user to click on a pin and then for the item to appear there in a smaller window. Then if the user wants to look more into that item, they can click on it to go to the item listing. 
+
 ### Impression Test
 
 [Here](https://docs.google.com/document/d/1UrwnNYEhCbskTUN56YUEtAHpZJFsfWB3OyzKpY4_7ZM/edit?usp=sharing) is the transcription of the impression test on my sister, Jacqui, a 22 year old woman. 
