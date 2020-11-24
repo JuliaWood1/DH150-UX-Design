@@ -14,4 +14,8 @@ When choosing my color scheme I wanted it to be bright and fun while also consid
 
 #### Impression Test
 
+While analyzing my sister (23 yrs old) interact with my design I noticed several things I could improve in my design. 
+
 #### Accessibility Check 
+
+[Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR)
