@@ -18,9 +18,9 @@ While analyzing my sister (23 yrs old) interact with my design I noticed several
 
 #### Accessibility (Color-Contrast) Check 
 
-[1](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.49.55%20PM.png)
-[](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.03%20PM.png)
-[](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.29%20PM.png)
-[](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.36%20PM.png)
-[](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.50%20PM.png)
-[](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.56%20PM.png)
+![1](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.49.55%20PM.png)
+![2](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.03%20PM.png)
+![3](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.29%20PM.png)
+![4](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.36%20PM.png)
+![5](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.50%20PM.png)
+![6](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-23%20at%2011.50.56%20PM.png)
