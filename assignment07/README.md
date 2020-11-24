@@ -16,8 +16,16 @@ coming soon
 
 [Here](https://docs.google.com/document/d/1UrwnNYEhCbskTUN56YUEtAHpZJFsfWB3OyzKpY4_7ZM/edit?usp=sharing) is the transcription of the impression test on my sister, Jacqui, a 22 year old woman. 
 
+Before summarizing my findings from the impression test, I want to note that my participant had no prior knowledge of the app. 
+
 Key Takeaways from Impression Test: 
-1. 
+1. She quickly understood that it was a fashion app. 
+2. She also learned that it was a nearby app, like facebook marketplace, based on the map view.
+3. She thought the home page was ugly. 
+
+> She did not like the color-blocking home menu scrolling page. She thought it should be a less crowded home page and then with menus that drrop down with submenus. 
+
+4. 
 
 ### Accessibility (Color-Contrast) Check 
 
