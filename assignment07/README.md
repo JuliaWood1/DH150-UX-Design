@@ -10,7 +10,9 @@ coming soon
 
 [Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR) is where you can find my wireframes that perform three features of my app, Bool. 
 
-**How I chose design elements**: When choosing my color scheme I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. I wanted my design to be pleasing to the eye as well as unique. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. All my text throughout is simple black because I wanted the words to be as legible as possible. 
+**How I chose design elements**: 
+> When choosing my color scheme I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. I wanted my design to be pleasing to the eye as well as unique. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. Additionally, all my text throughout is simple black because I wanted the words to be as legible as possible. 
+> Based on feedback from my participants in the early stages of designing, I wanted to make my app as easy and familiar to understand as possible. That being said I maintained external consistency throughout my app my putting familiar icons in the right places: the shopping bag in the upper lefthand corner, filter and sort in the upper right of the screen, search bar at the top, bottom naviagtion with home on the left and profile on the right. 
 
 ### Impression Test
 
