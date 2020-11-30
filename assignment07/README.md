@@ -49,3 +49,22 @@ Key Takeaways from Impression Test:
 
 [Here](https://docs.google.com/document/d/1ckGiRqhb6I0gJCtucfQgRfHGFJz-BlL6ICJ-2g6NZs0/edit?usp=sharing) is the evidence of completing the accessibility check by comparing the colors of the foreground and background throughout my app, Bool. 
 
+### Interactive Prototype
+
+coming soon
+
+
+### Cognitive Walkthroug
+
+[Here](link) is the feedback I got from my classmates on the cognitive walkthrough of my high fidelity prototype in its beginning stage. 
+
+Based on their feedback these are the changes I implemented:
+1. 
+2. 
+
+
+
+### Reflection
+
+coming soon
+
