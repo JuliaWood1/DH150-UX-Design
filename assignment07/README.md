@@ -47,5 +47,5 @@ Key Takeaways from Impression Test:
 
 ### Accessibility (Color-Contrast) Check 
 
-[Here](https://docs.google.com/document/d/1ckGiRqhb6I0gJCtucfQgRfHGFJz-BlL6ICJ-2g6NZs0/edit?usp=sharing)
+[Here](https://docs.google.com/document/d/1ckGiRqhb6I0gJCtucfQgRfHGFJz-BlL6ICJ-2g6NZs0/edit?usp=sharing) is the evidence of completing the accessibility check by comparing the colors of the foreground and background throughout my app, Bool. 
 
