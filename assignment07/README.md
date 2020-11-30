@@ -56,7 +56,7 @@ coming soon
 
 ### Cognitive Walkthroug
 
-[Here](link) is the feedback I got from my classmates on the cognitive walkthrough of my high fidelity prototype in its beginning stage. 
+[Here](https://docs.google.com/document/d/1UJISwOpItjyBecNHAT1VfpORAtHAJNlAnirkelwjBgc/edit?usp=sharing) is the feedback I got from my classmates on the cognitive walkthrough of my high fidelity prototype in its beginning stage. 
 
 Based on their feedback these are the changes I implemented:
 1. 
