@@ -12,9 +12,9 @@ coming soon
 
 **How I chose design elements**: 
 
-When choosing my color scheme I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. I wanted my design to be pleasing to the eye as well as unique. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. 
+When choosing the color scheme for Bool, I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. This pack was perfect for Bool because it was youthful and the contrasts between the light and dark colors met accessibility standards.
 
-All my text throughout is simple black because I wanted the words to be as legible as possible. I chose the avenir font out of all the available fonts because it was easy to read, and it felt young and fun. This font also  had  many  different available options for bolding and italicizing which I appreciated and utilized.
+All my text throughout is simple black because I wanted the words to be as legible as possible. I chose the avenir next font out of all the available fonts because it was easy to read, and it felt young and fun. This font also  had  many  different available options for bolding and italicizing which I appreciated and utilized.
 
 Based on feedback from my participants in the early stages of designing, I wanted to make my app as easy and familiar to understand as possible. That being said I maintained external consistency throughout my app my putting familiar icons in the right places: the shopping bag in the upper lefthand corner, filter and sort in the upper right of the screen, search bar at the top, bottom naviagtion with home on the left and profile on the right. I also made my main home page a scrolling menu for shoppers to be able to see all the different things available on the site. 
 
@@ -48,6 +48,10 @@ Key Takeaways from Impression Test:
 ### Accessibility (Color-Contrast) Check 
 
 [Here](https://docs.google.com/document/d/1ckGiRqhb6I0gJCtucfQgRfHGFJz-BlL6ICJ-2g6NZs0/edit?usp=sharing) is the evidence of completing the accessibility check by comparing the colors of the foreground and background throughout my app, Bool. 
+
+### Evolution of My Design
+
+[Here](https://docs.google.com/presentation/d/15if7Rc_BPlxG12zSkgukTOdbV1gDZnFHY60wZikSpzA/edit?usp=sharing) is the link to a slide that shows the evolution of two individual wireframes. 
 
 ### Interactive Prototype
 
