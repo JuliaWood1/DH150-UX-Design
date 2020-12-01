@@ -3,9 +3,9 @@
 ## by Julia Wood for Digital Humanities 150 at UCLA, Fall 2020 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
+  <img width="460" height="400" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
 </p>
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png 'Bool Opening Screen')
+
 
 
 
