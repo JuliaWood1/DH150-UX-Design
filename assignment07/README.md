@@ -16,17 +16,17 @@ coming soon
 
 ### Graphic Design
 
-[Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR) is where you can find my wireframes that perform three features of my app, Bool. 
+[Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR) is where you can find the earlier draft of the wireframes that perform three features of my app, Bool. 
 
 **How I chose design elements**: 
 
 When choosing the color scheme for Bool, I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. This pack was perfect for Bool because it was youthful and the contrasts between the light and dark colors met accessibility standards.
 
-All my text throughout is simple black because I wanted the words to be as legible as possible. I chose the avenir next font out of all the available fonts because it was easy to read, and it felt young and fun. This font also  had  many  different available options for bolding and italicizing which I appreciated and utilized.
+Most of the text throughout is simple black because I wanted the words to be as legible as possible, however the logo is a dark blue gray color because that is the color I chose for branding. I chose the avenir next font out of all the available fonts because it was easy to read, and I wanted to use a bolded font. This font had  many  different available options for bolding and italicizing which I appreciated and utilized. All my main headers are Bold, Italicized because it looks trendy which matches my desired youthful aesthetic. Then text in the selling process or the filtering process is Black in Demi Bold Italics, so text that is not a header or a main points of contact is easier to read and less aggressive to the eye. Subtitles throughout are in a dark gray color to break up all the black throughout.
 
 Based on feedback from my participants in the early stages of designing, I wanted to make my app as easy and familiar to understand as possible. That being said I maintained external consistency throughout my app my putting familiar icons in the right places: the shopping bag in the upper lefthand corner, filter and sort in the upper right of the screen, search bar at the top, bottom naviagtion with home on the left and profile on the right. I also made my main home page a scrolling menu for shoppers to be able to see all the different things available on the site. 
 
-All my main action buttons are purple, and then supplementary action buttons are yellow to maintain internal consistency. Furthermore, I incorporated pop-up windows when the user is progressing through the selling process to prevent users from making mistakes and deleting posts. For the map view, I though it would be most inuitive for a user to click on a pin and then for the item to appear there in a smaller window. Then if the user wants to look more into that item, they can click on it to go to the item listing. 
+All my main action buttons are purple, and then supplementary action buttons are yellow to maintain internal consistency. Furthermore, I incorporated pop-up windows when the user is progressing through the selling process to prevent users from making mistakes and deleting posts. I also incorporated a progress bar in the selling process, so the seller can tell how much  longer they have to complete the action of posting an item for sale. For the map view, I though it would be most inuitive for a user to click on a pin and then for the item to appear there in a smaller window. Then if the user wants to look more into that item, they can click on it to go to the item listing. 
 
 ### Impression Test
 
