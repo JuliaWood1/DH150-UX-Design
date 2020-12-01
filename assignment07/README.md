@@ -2,6 +2,13 @@
 
 ## by Julia Wood for Digital Humanities 150 at UCLA, Fall 2020 
 
+## Introducing Bool
+#### The Future of Sustainable Shopping
+![]
+
+
+
+
 ### Project Description
 
 coming soon
