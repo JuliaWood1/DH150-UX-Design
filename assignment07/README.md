@@ -67,10 +67,10 @@ coming soon
 
 ### Wireflow
 
-![alt text]()
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png">
 </p>
 
 
