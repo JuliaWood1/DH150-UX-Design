@@ -10,7 +10,7 @@
 
 ### Introducing Bool: The Future of Sustainable Shopping
 
-Wow, it's been a long time coming, but I can finally say I prototyped my sustainable shopping app, Bool. Yay! So, let me give you an overview of what I have done on this project over the past two week period of high fidelity prototyping. I focused on prototyping three features that I wanted my app to perform: 1) filtering and sorting by price, distance, size, etc., 2) viewing items in Map view, and 3) posting an item for sale on the buying and selling app. 
+Wow, it's been a long time coming, but I can finally say I prototyped my sustainable shopping app, Bool. Yay! So, let me give you an overview of what I have done on this project over the past two week period of high fidelity prototyping. I focused on prototyping three features that I wanted my app to perform: 1) filtering and sorting by price, distance, size, etc., 2) viewing items in Map view, and 3) posting an item for sale on the buying and selling app. While completing these tasks, I also had to add additional helper screens like the entry/loading screen, profiles, likes page, and scrolling main menus. I wish I had more time (and a budget) to devote more time to fully developing this prototype. However, this prototype taught me a lot about how to create a high fidelity  prototype, and what is important to include in the minimum viable product. I also learned that every single time you test the prototype, you will find an minor error that needs fixing (e.g., a missing link or a dead end). I'm looking forward to pitching my app, Bool, to the class next week!
 
 ### Graphic Design
 
