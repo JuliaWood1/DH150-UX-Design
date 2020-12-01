@@ -18,6 +18,8 @@ coming soon
 
 [Here](https://projects.invisionapp.com/freehand/document/fq1KDPdoR) is where you can find the earlier draft of the wireframes that perform three features of my app, Bool. 
 
+[Here](https://projects.invisionapp.com/freehand/document/RDKYEaAHC) is where you can find the latest version of the wireframes that perform three features of my app, Bool. 
+
 **How I chose design elements**: 
 
 When choosing the color scheme for Bool, I wanted it to be bright and fun while also considering those who may have different accessibility needs. At first I started with a pink theme, but I wanted to incorporate more colors. So I went online and browsed some of my favorite websites and apps to get inspiration. Following this I browsed UI Kits online until I found one with all the colors I was looking for: blue, purple, pink, and yellow. The pack additionally included orange, and other darker and lighter basic colors. This pack was perfect for Bool because it was youthful and the contrasts between the light and dark colors met accessibility standards.
@@ -65,13 +67,9 @@ Key Takeaways from Impression Test:
 
 coming soon
 
-### Wireflow
+### Wireflow Diagram
 
 ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
-
-<p align="center">
-  <img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png">
-</p>
 
 
 ### Cognitive Walkthrough
