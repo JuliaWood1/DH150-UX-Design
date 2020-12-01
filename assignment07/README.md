@@ -4,7 +4,7 @@
 
 ## Introducing Bool
 #### The Future of Sustainable Shopping
-!(https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png 'Bool Opening Screen')
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png 'Bool Opening Screen')
 
 
 
