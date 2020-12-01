@@ -68,7 +68,7 @@ Key Takeaways from Impression Test:
 
 ### Interactive Prototype
 
-coming soon
+[Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype where the user can run through the three use cases I prototyped. 
 
 ### Wireflow Diagram
 
