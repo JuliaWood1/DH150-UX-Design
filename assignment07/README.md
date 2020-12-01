@@ -88,5 +88,11 @@ Based on their feedback these are the changes I implemented:
 
 ### Reflection
 
-coming soon
+When  I first  started prototyping  in  InVision, I couldn't even figure out how to move an icon. The learning curve was steep, but once I got the hang of it I really enjoyed prototyping Bool. Throughout the whole process the user feedback was crucial to determine what was working and what needs changing. Based on the users input, I changed the focus of  my app from  a regular shopping app to a sustainable shopping app thats looking towards the future rather than the past. Furthermore, I also changed the entry screen, main scrolling menu, the shapes of the clothing images and more. I would  say the hardest part was actually low fidelity prototyping the screen layouts because you have to start from a blank piece of paper. Don't get me wrong, high fidelity prototypinf was definitely irritating and time consuming, but at least I wasn't having to create the wireflows out of thin air because I had the low fidelity wireframes for reference.
+
+Like I said in the introduction, I wish I had more time and a budget to develop further use cases of this app. I wanted the user to be  able to change their location to look at items in other areas around the US. Additionally I wanted to further prototype a messaging platform within this app to make it more of a social media, compared to just a shopping app. But for now I included the basics for looking up items and filtering/sorting them, viewing items in map view, and posting an item for sale on the app. I'm just now realizing I should have included a pop-up window in the inital screen where the app asks the user to know their location, however this would only pop-up when the user is just beginning the app, and not for recurring users who are already on the app. 
+
+
+
+
 
