@@ -66,13 +66,14 @@ Key Takeaways from Impression Test:
 coming soon
 
 
-### Cognitive Walkthroug
+### Cognitive Walkthrough
 
 [Here](https://docs.google.com/document/d/1UJISwOpItjyBecNHAT1VfpORAtHAJNlAnirkelwjBgc/edit?usp=sharing) is the feedback I got from my classmates on the cognitive walkthrough of my high fidelity prototype in its beginning stage. 
 
 Based on their feedback these are the changes I implemented:
-1. 
-2. 
+1. I removed size as a sort option. My classmates helped me realize it does not truly make sense to sort by size, no one would actually use this feature.
+2. I changed the color of the menu buttons on my initial scrolling menu screens. At first glance some of my classmates were confused about the function of these screens; some also thought the text was hard to read on the dark blue background. From their feedback I no longer made that dark blue color a background for anything throughout the app because users may not be able to read the text. 
+3. I also made all the clothing display images the same size because my classmates thought the different sizes were confusing. I received the same feedback on my impression test. 
 
 
 
