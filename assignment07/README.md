@@ -10,7 +10,7 @@
 
 
 
-### Project Description
+### Introducing Bool: The Future of Sustainable Shopping
 
 coming soon
 
