@@ -16,7 +16,7 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 - [Here you can read more about the heuristic evaluation of ZARA and Hautelook.](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
 - [Here you can read more about the pilot usability test I conducted of ZARA](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 
-# HTML
+# HTML CODE FOR PICTURES NOT WORKING
 
 
 <table>
@@ -29,9 +29,12 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
+
 ## User research [contextual inquiry, assignment04]:
 
-Before I dove into designing my sustainable shopping experience, I wanted to understand how the average person might first find sustainability information regarding the clothes they are shopping for. So I conducted a contextual inquiry interview with my  roommate, Katie Heckart. In this conversation I had her show me how she would research a company’s sustainability practices, find how an individual product is made, and how she would filter through this information to find what is most important to her. From this, I learned what makes people trust brands’ sustainability information, and that buying used and local is the best way to practice sustainable shopping. This assignment changed the focus of my project from a general shopping app to a sustainable one, and you can read more  about it [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md). 
+Before I dove into designing my sustainable shopping experience, I wanted to understand how the average person might first find sustainability information regarding the clothes they are shopping for. So I conducted a contextual inquiry interview with my  roommate, Katie Heckart. In this conversation I had her show me how she would research a company’s sustainability practices, find how an individual product is made, and how she would filter through this information to find what is most important to her. From this, I learned what makes people trust brands’ sustainability information, and that buying used and local is the best way to practice sustainable shopping. 
+
+**Important** This contextual inquiry changed the focus of my project from a general shopping app to a sustainable one, and you can read more  about it [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md). 
 
 Summary and link to your assignment folder
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md)
@@ -43,10 +46,31 @@ In this step of the design process, I wanted to fully understand my future users
 
 Summary and link to your assignment folder
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/README.md)
+
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+
+When beginning to create my app, I thought of the three most essential features I wanted my shopping app to have. After careful consideration, I chose my three features to be: 
+
+1. filtering and sorting by price, distance, size, etc., 
+2. viewing items in Map view, and
+3. posting an item for sale on the buying and selling app. 
+
+Therefore I had to create enough wireframes so my prototype could walk through these three use cases. Furthermore, I also had to choose my specific design elements, like color, font, layout, icons, and more. When choosing the design components for Bool, I knew I wanted the app to be bright and fun while also considering those who may have different accessibility needs. 
+
+
+
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment06/README.md)
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/README.md)
 ## Low-fidelity prototype (wireflow, assignment06)
+
+The low fidelity part of the project was actually the most difficult step for me. This is because you have to create your designs from scratch, whereas in the later design phases you can just tweak your initial low-fidelity wireframes. It is so important to first create a low-fidelity prototype of your interface design, so you can pinpoint flaws in your design before you move on to more difficult stages of prototyping. This iterative process of constantly testing and retesting your prototypes ensures that when your creation hits the market, users will innately understand how to navigate your interface. Testing in every step of the development process is crucial to understanding where to make adjustments to your user interface design.
+
+
+
+- [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment06/README.md)
+
+
+
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
