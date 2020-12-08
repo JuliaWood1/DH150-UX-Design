@@ -103,6 +103,9 @@ I made the high-fidelity prototype of BooL in InVision. This prototype works thr
 
 [Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype. 
 
+<iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551"  title="Sample">
+</iframe>
+
 **Wireflow Diagram**
 ![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
 
