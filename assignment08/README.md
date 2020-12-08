@@ -11,6 +11,8 @@ BooL is the future of online shopping because it cuts out the middleman (more li
 
 ![no middleman](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png)
 
+<img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png" alt="No Middleman">
+
 
 ## Competitor analysis (Heuristic Evaluation and Pilot Usability Test)
 
