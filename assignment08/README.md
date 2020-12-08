@@ -18,6 +18,7 @@ Sustainability paragraoh.
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+# HTML
 
 <table>
 <tr>
@@ -26,6 +27,8 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 </tr>
 </table>
 
+
+# markdown
 
 ZARA  US | Hautelook
 -------------------------------------------|---------------------------------------------
