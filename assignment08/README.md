@@ -1,9 +1,3 @@
-# Bool: The Future of Sustainable Shopping by Julia Wood
-
-<p align="center">
-  <img width="460" height="400" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
-</p>
-
 ## Introduction to the World of E-Commerce
 
 How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days. While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our Planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Therefore, individual consumers can help lessen their carbon footprint by buying locally and used through the new shippingless-shopping app, BooL. 
@@ -88,3 +82,12 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
   - Graphic Designs (multiple variations)
   - Accessibility audits (color contrast) with your NEW design
 
+
+
+
+# Maybe at top idk
+# BooL: The Future of Sustainable Shopping by Julia Wood
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
+</p>
