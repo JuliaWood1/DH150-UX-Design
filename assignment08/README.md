@@ -1,5 +1,3 @@
-![no middleman](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png)
-
 ## Introduction to the World of E-Commerce
 
 How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days (or even hours). While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our Planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Shipping emits air pollutants into our atmosphere, water polutants into our oceans, and greenhouse gases further warming Earth. BooL empowers communities to lessen their carbon footprint by eliminating shipping through shopping locally and used. 
@@ -10,6 +8,8 @@ BooL is the shippingless-shopping app of the future.
 ## Design Statement 
 
 BooL is the future of online shopping because it cuts out the middleman (more like, middlemen) between you and your clothes. With BooL, savvy shoppers can get new shoes, clothes, and even household items with the peace of mind that their purchase hasn’t had detrimental impacts on our shared home. BooL is a buying and selling app where users can browse, purchase, and pick-up antique and vintage items in their area. Users can view nearby items in mapview, filter by distance, price, or seller, and post items for sale through the easy-to-understand interface. Thanks to BooL users can shop without guilt!
+
+![no middleman](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png)
 
 
 ## Competitor analysis (Heuristic Evaluation and Pilot Usability Test)
