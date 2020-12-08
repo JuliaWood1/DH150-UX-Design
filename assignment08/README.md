@@ -20,7 +20,7 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 ZARA  US | Hautelook
 -------------------------------------------|---------------------------------------------
-<img src=”https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png” height=”300px”>  | <img src=”https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png” height=”300px”>
+<img src=”https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png” >  | <img src=”https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png”>
 
 
 
@@ -43,6 +43,12 @@ Summary statement and link to or an embedded prototype
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ## Pitch video 
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/hQUqdbd_buw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
 ## Conclusion: what did you learn throughout the process?
 
 
