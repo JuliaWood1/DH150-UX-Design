@@ -46,7 +46,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://youtu.be/hQUqdbd_buw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/hQUqdbd_buw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
