@@ -4,19 +4,23 @@
   <img width="460" height="400" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
 </p>
 
-## Introduction a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+## Introduction to the World of E-Commerce
 
-Wow, it's been a long time coming, but I can finally say I prototyped my sustainable shopping app, Bool. Yay! So, let me give you an overview of what I have done on this project over the past two week period of high fidelity prototyping. I focused on prototyping three features that I wanted my app to perform: 1) filtering and sorting by price, distance, size, etc., 2) viewing items in Map view, and 3) posting an item for sale on the buying and selling app. While completing these tasks, I also had to add additional helper screens like the entry/loading screen, profiles, likes page, and scrolling main menus. I wish I had more time (and a budget) to devote more time to fully developing this prototype. However, this prototype taught me a lot about how to create a high fidelity  prototype, and what is important to include in the minimum viable product. I also learned that every single time you test the prototype, you will find an minor error that needs fixing (e.g., a missing link or a dead end). I'm looking forward to pitching my app, Bool, to the class next week!
+How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days. While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our Planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Therefore, individual consumers can help lessen their carbon footprint by buying locally and used through the new shippingless-shopping app, BooL. 
 
-This app  allows users to look at vintage and used clothes as well as antique items in their area. Shippping and transportation in general has a huge negative effect on the  environment, and with Bool there's no shipping. Bool cuts out the  middle man between you and your clothes, therefore  helping the environment! The clothing  you  can view on the app is within a certain radius (that you can change), so you can walk/bike/drive to pick up your items. 
+## Design Statement: 
 
-## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+This is why BooL is the future of online shopping, it cuts out the middleman (more like, middlemen) between you and your clothes. With BooL, savvy shoppers can get new shoes, clothes, and even household items with the peace of mind that their purchase hasn’t had detrimental impacts on our shared home. BooL is a buying and selling app where users can browse, purchase, and pick-up antique and vintage items in their area. Users can view nearby items in mapview, filter by distance, price, or seller, and post items for sale through the easy-to-understand interface.
 
-Sustainability paragraoh. 
-## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+
+## Competitor analysis:
+
+Before creating BooL, I analyzed two existing popular retail websites, Zara and Hautelook. In order to complete this thorough User Experience analysis, I checked how well each competing site abided by Nielson’s 10 heuristics for User Interface Design. According to an industry professional and UCLA instructor, Dr. Sookie Cho, "The 10 heuristics are a foundational checklist that most UX designers use to communicate the usability issues." 
+
+What I found from this analysis is that ZARA’s unique website does not adhere to several industry standard UX practices which results in users being confused and frustrated when navigating their site. On the other end of the spectrum, Hautelook’s design is rather simplistic and boring which could deter younger users from interacting with it at all. BooL fits in the perfect sweet spot of intriguing yet intuitive interface design, so all users can navigate the app with ease and pleasure.
+
+- [Here you can read more about the heuistic evaluation of ZARA and Hautelook.](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
+- [Here you can read more about hte pilot usability test I conducted of ZARA](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 
 # HTML
 
@@ -32,6 +36,9 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 ## User research [contextual inquiry, assignment04]:
+
+Before I dove into designing my sustainable shopping experience, I wanted to understand how the average person might first find sustainability information regarding the clothes they are shopping for. So I conducted a contextual inquiry interview with my  roommate, Katie Heckart. In this conversation I had her show me how she would research a company’s sustainability practices, find how an individual product is made, and how she would filter through this information to find what is most important to her. From this, I learned what makes people trust brands’ sustainability information, and that buying used and local is the best way to practice sustainable shopping. This assignment changed the focus of my project from a general shopping app to a sustainable one, and you can read more  about it [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md). 
+
 Summary and link to your assignment folder
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md)
 - Accessibility audits (color contrast)
