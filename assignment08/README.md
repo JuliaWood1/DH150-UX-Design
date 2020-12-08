@@ -132,6 +132,8 @@ Based on their feedback these are the changes I implemented:
 
 **Necessity for User Feedback** Throughout the whole process the user feedback was crucial to determine what was working and what needs changing. Based on the users input, I changed the focus of my app from a regular shopping app to a sustainable shopping app that's looking towards the future rather than the past. Furthermore, I also changed the entry screen, main scrolling menu, the shapes of the clothing images and more.
 
+**Start Early** Designing is an interative process, so every time you finish one thing it signals the beginning of another step. That being said, designing an interface takes a long time, and so does testing this interface. So one has to start early in order to find time to complete all the necessaryr steps.What I learned throughout this project is that it is crucial to start early so you have the time to create a product that you will be proud to show off. 
+
 
 
 # Maybe at top idk
