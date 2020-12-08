@@ -21,8 +21,9 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 - You can read more about the heuristic evaluation of ZARA and Hautelook [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
 - You can read more about the pilot usability test I conducted of ZARA [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 
-# HTML CODE FOR PICTURES NOT WORKING
-
+| ZARA Homepage  | Hautelook Homepage | 
+| ------------- | ------------- | 
+| ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png "ZARA")  | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png "Hautelook")  |
 
 <table>
   <tr>
