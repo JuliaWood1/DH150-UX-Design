@@ -44,9 +44,15 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ## Pitch video 
 
+<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://youtu.be/hQUqdbd_buw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
+
+
+
+[![THE-ALT-TEXT](http://img.youtube.com/vi/hQUqdbd_buw/0.jpg)](https://www.youtube.com/watch?v=hQUqdbd_buw "ALT-TEXT")
 
 
 ## Conclusion: what did you learn throughout the process?
