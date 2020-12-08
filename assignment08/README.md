@@ -23,8 +23,8 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 <table>
   <tr>
-    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png" width="500px"></td>
-    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/Week-1/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png" width="500px"></td>
+    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png" width="500px"></td>
+    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png" width="500px"></td>
   </tr>
 </table>
 
