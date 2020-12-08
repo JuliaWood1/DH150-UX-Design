@@ -47,7 +47,12 @@ Before I dove into designing my sustainable shopping experience, I wanted to und
 
 In this step of the design process, I wanted to fully understand my future users and more specifically what motivates them to shop sustainably. Therefore I created two user personas: Jane and Elijah. Jane was a middle aged mom to two grown children who was motivated to shop sustainably by her daughter.  Elijah was a busy college student who was already committed to sustainable shopping practices, but wanted to try out a new platform. Through creating empathy maps, scenarios, and journey maps for each of these personas I gained valuable insights about the potential users for my app, BooL. It's so important to understand your user before you design an experience for them. When designers do not take the time to truly understand what motivates their user they can miss important aspects that will encourage users to interact with their design.
 
-#### User Persona of Jane  
+#### User Persona of Jane 
+
+| User Persona  | Empathy Map | Journey Map  | 
+| ------------- | ------------- | ------------- | 
+| ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-07%20at%207.17.10%20PM.png "Jane User Persona")  | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-08%20at%209.30.13%20PM.png "Jane's Empathy Map")  | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-10%20at%202.37.16%20PM.png "Jane's Journey Map")  | 
+
 
 ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-07%20at%207.17.10%20PM.png "Jane User Persona")
 
@@ -102,7 +107,6 @@ I made the high-fidelity prototype of BooL in InVision. This prototype works thr
 [Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype. 
 
 It is also embedded below, for your convenience. 
-
 
 <iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play"  title="Sample" height = '690'>
 </iframe>
