@@ -104,7 +104,7 @@ I made the high-fidelity prototype of BooL in InVision. This prototype works thr
 It is also embedded below, for your convenience. 
 
 
-<iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play"  title="Sample" height = '675'>
+<iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play"  title="Sample" height = '690'>
 </iframe>
 
 
