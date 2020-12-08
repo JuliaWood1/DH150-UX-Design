@@ -25,13 +25,6 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 | ------------- | ------------- | 
 | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png "ZARA")  | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png "Hautelook")  |
 
-<table>
-  <tr>
-    <td><img src="https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png" width="500px"></td>
-    <td><img src="https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png" width="500px"></td>
-  </tr>
-</table>
-
 
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
