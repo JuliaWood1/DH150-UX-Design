@@ -150,9 +150,3 @@ Based on their feedback these are the changes I implemented:
 **Start Early** Designing is an interative process, so every time you finish one thing it signals the beginning of another step. That being said, designing an interface takes a long time, and so does testing this interface. So one has to start early in order to find time to complete all the necessaryr steps.What I learned throughout this project is that it is crucial to start early so you have the time to create a product that you will be proud to show off. 
 
 
-
-# Testing Image - still not working
-
-<p align="center">
-  <img width="460" height="400" src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2010.31.29%20PM.png">
-</p>
