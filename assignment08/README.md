@@ -11,8 +11,6 @@ BooL is the future of online shopping because it cuts out the middleman (more li
 
 ![no middleman](https://juliawood1.github.io/DH150-UX-Design/assignment08/cutout-adtech-middleman.png)
 
-<img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png" alt="No Middleman">
-
 
 ## Competitor analysis (Heuristic Evaluation and Pilot Usability Test)
 
@@ -28,8 +26,8 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 
 <table>
   <tr>
-    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png" width="500px"></td>
-    <td><img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png" width="500px"></td>
+    <td><img src="https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png" width="500px"></td>
+    <td><img src="https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png" width="500px"></td>
   </tr>
 </table>
 
@@ -51,9 +49,9 @@ In this step of the design process, I wanted to fully understand my future users
 
 #### User Persona of Jane  
 
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-07%20at%207.17.10%20PM.png "Jane User Persona")
+![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-07%20at%207.17.10%20PM.png "Jane User Persona")
 
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-08%20at%209.30.13%20PM.png "Jane's Empathy Map")
+![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-08%20at%209.30.13%20PM.png "Jane's Empathy Map")
 
 #### Why Jane is using BooL
 > Jane is out to lunch with her family while visiting her 24 yr-old daughter in New York City. She notices her daughter's earrings and can't help but ask where they are from. Her daughter tells her they are from a vintage jewelry dealer in SoHo, but she ordered them through an app. As her daughter goes on about all the amazing sustainable purchases she has made through this app, Jane wants to download it herself. With help from her husband, she successfully downloads the app and makes an account to browse the jewelry.
@@ -61,13 +59,13 @@ In this step of the design process, I wanted to fully understand my future users
 #### How Jane is using BooL
 > When first logging on, Jane allowed the app to know her location when she is using the app. Therefore, it only shows products within a 10 mile radius of her location. She wants to narrow down her search to jewelry so she clicks on the 'Jewelry' section of the scrolling home page. Now that shes in 'Jewelry' there are 5 icons across the top, captioned: 'Rings', 'Earrings', 'Bracelets', 'Necklaces', and 'Watches'. She clicks on the earrings icon and then the filter button in the upper right hand corner to specify 'Gold' jewelry. Now she can find gold earrings close to her daughters apartment in New York City, and walk to pick them up during their free day tomorrow. 
 
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-10%20at%202.37.16%20PM.png "Jane's Journey Map")
+![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment05/Screen%20Shot%202020-11-10%20at%202.37.16%20PM.png "Jane's Journey Map")
 
 You can see both of my user personas [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/README.md).
 
 ## Wireframe and Graphic Design Elements
 
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.57.52%20PM.png)
+![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment07/Screen%20Shot%202020-11-30%20at%2011.57.52%20PM.png)
 
 When beginning to create my app, I thought of the three most essential features I wanted my shopping app to have. After careful consideration, I chose my three features to be: 
 
@@ -84,7 +82,7 @@ You can read more about how I chose my specific design elements [here](https://g
 
 ## Low-fidelity Prototype 
 
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/Screen%20Shot%202020-12-08%20at%202.38.38%20PM.png)
+![alt text](https://juliawood1.github.io/DH150-UX-Design/Screen%20Shot%202020-12-08%20at%202.38.38%20PM.png)
 
 The low fidelity part of the project was actually the most difficult step for me. This is because you have to create your designs from scratch, whereas in the later design phases you can just tweak your initial low-fidelity wireframes. It is so important to first create a low-fidelity prototype of your interface design, so you can pinpoint flaws in your design before you move on to more difficult stages of prototyping. This iterative process of constantly testing and retesting your prototypes ensures that when your creation hits the market, users will innately understand how to navigate your interface. 
 
@@ -103,13 +101,15 @@ I made the high-fidelity prototype of BooL in InVision. This prototype works thr
 
 [Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype. 
 
+It is also embedded below, for your convenience. 
+
 
 <iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play"  title="Sample" height = '675'>
 </iframe>
 
 
 **Wireflow Diagram**
-![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
+![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
 
 ### Testing of High-fidelity prototype
 
