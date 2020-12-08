@@ -36,8 +36,7 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 
 Before I dove into designing my sustainable shopping experience, I wanted to understand how the average person might first find sustainability information regarding the clothes they are shopping for. So I conducted a contextual inquiry interview with my  roommate, Katie Heckart. In this conversation I had her show me how she would research a company’s sustainability practices, find how an individual product is made, and how she would filter through this information to find what is most important to her. From this, I learned what makes people trust brands’ sustainability information, and that buying used and local is the best way to practice sustainable shopping. 
 
-**Important** This contextual inquiry changed the focus of my project from a general shopping app to a sustainable one, and you can read more  about it [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md). 
-
+**Important Note** This contextual inquiry changed the focus of my project from a general shopping app to a sustainable one, and you can read more  about it [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md). 
 
 
 
@@ -52,6 +51,8 @@ You can see both of my user personas [here](https://github.com/JuliaWood1/DH150-
 
 ## Wireframe and Graphic Design Elements
 
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.57.52%20PM.png)
+
 When beginning to create my app, I thought of the three most essential features I wanted my shopping app to have. After careful consideration, I chose my three features to be: 
 
 1. filtering and sorting by price, distance, size, etc., 
@@ -60,7 +61,7 @@ When beginning to create my app, I thought of the three most essential features 
 
 Therefore I had to create enough wireframes so my prototype could walk through these three use cases. Furthermore, I also had to choose my specific design elements, like color, font, layout, icons, and more. When choosing the design components for Bool, I knew I wanted the app to be bright and fun while also considering those who may have different accessibility needs. For these reasons I chose a youthful color scheme but kept my font visible and black throughout. I  will link the accessibility (color-contrast) check where I compare the the foreground and background colors [here](https://docs.google.com/document/d/1ckGiRqhb6I0gJCtucfQgRfHGFJz-BlL6ICJ-2g6NZs0/edit?usp=sharing).
 
-**Important** Throughout the design process, my ideas took many different forms, and you can view the evolution of my design by focusing on two different wireframes [here](https://docs.google.com/presentation/d/15if7Rc_BPlxG12zSkgukTOdbV1gDZnFHY60wZikSpzA/edit?usp=sharing). 
+**Important Note** Throughout the design process, my ideas took many different forms, and you can view the evolution of my design by focusing on two different wireframes [here](https://docs.google.com/presentation/d/15if7Rc_BPlxG12zSkgukTOdbV1gDZnFHY60wZikSpzA/edit?usp=sharing). 
 
 You can read more about how I chose my specific design elements [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/README.md).
 
@@ -79,10 +80,26 @@ You can read a more in depth description of my wireflow test [here](https://gith
 
 
 ## High-fidelity prototype
-Summary statement and link to or an embedded prototype
 
-#### Testing of High-fidelity prototype
+I made the high-fidelity prototype of BooL in InVision. This prototype works through my three use cases listed above in 'Wireframe and Graphic Design Elements'. However, I also implemented further helper screens like home pages, scrolling menus, profiles, and a likes tab to make it look and feel like a real app ready for the market.
+
+[Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype. 
+
+**Wireflow Diagram**
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment07/Screen%20Shot%202020-11-30%20at%2011.14.02%20PM.png)
+
+### Testing of High-fidelity prototype
+
 **Impression Test**
+[Here](https://docs.google.com/document/d/1UrwnNYEhCbskTUN56YUEtAHpZJFsfWB3OyzKpY4_7ZM/edit?usp=sharing) is the transcription of the impression test on my sister, Jacqui, a 22 year old woman.
+
+Key Takeaways from Impression Test:
+1. The user quickly understood it was a nearby fashion app. 
+2. The user liked the color scheme. 
+3. The user loved the welcome page and logo, however she thought the home scrolling menus were ugly. 
+4. The user suggested adding some filtering options, like type of product and tags.
+
+Based on all of her thoughts and opinions I made further changes to my design. 
 
 **Cognitive Walkthrough**
 [Here](https://docs.google.com/document/d/1UJISwOpItjyBecNHAT1VfpORAtHAJNlAnirkelwjBgc/edit?usp=sharing) is the feedback I got from my classmates on the cognitive walkthrough of my high fidelity prototype in its beginning stage.
