@@ -104,7 +104,7 @@ I made the high-fidelity prototype of BooL in InVision. This prototype works thr
 [Here](https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play) is the link to the interactive prototype. 
 
 
-<iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551/play"  title="Sample">
+<iframe src="https://projects.invisionapp.com/prototype/cki5nmen7000hqx01sm1dm551"  title="Sample" height = '400'>
 </iframe>
 
 
