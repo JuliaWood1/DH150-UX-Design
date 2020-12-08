@@ -44,8 +44,19 @@ Before I dove into designing my sustainable shopping experience, I wanted to und
 
 In this step of the design process, I wanted to fully understand my future users and more specifically what motivates them to shop sustainably. Therefore I created two user personas: Jane and Elijah. Jane was a middle aged mom to two grown children who was motivated to shop sustainably by her daughter.  Elijah was a busy college student who was already committed to sustainable shopping practices, but wanted to try out a new platform. Through creating empathy maps, scenarios, and journey maps for each of these personas I gained valuable insights about the potential users for my app, BooL. It's so important to understand your user before you design an experience for them. When designers do not take the time to truly understand what motivates their user they can miss important aspects that will encourage users to interact with their design.
 
-Below you will see the full user persona of Jane. 
+#### User Persona of Jane  
 
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-07%20at%207.17.10%20PM.png "Jane User Persona")
+
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-08%20at%209.30.13%20PM.png "Jane's Empathy Map")
+
+#### Why Jane is using BooL
+> Jane is out to lunch with her family while visiting her 24 yr-old daughter in New York City. She notices her daughter's earrings and can't help but ask where they are from. Her daughter tells her they are from a vintage jewelry dealer in SoHo, but she ordered them through an app. As her daughter goes on about all the amazing sustainable purchases she has made through this app, Jane wants to download it herself. With help from her husband, she successfully downloads the app and makes an account to browse the jewelry.
+
+#### How Jane is using BooL
+> When first logging on, Jane allowed the app to know her location when she is using the app. Therefore, it only shows products within a 10 mile radius of her location. She wants to narrow down her search to jewelry so she clicks on the 'Jewelry' section of the scrolling home page. Now that shes in 'Jewelry' there are 5 icons across the top, captioned: 'Rings', 'Earrings', 'Bracelets', 'Necklaces', and 'Watches'. She clicks on the earrings icon and then the filter button in the upper right hand corner to specify 'Gold' jewelry. Now she can find gold earrings close to her daughters apartment in New York City, and walk to pick them up during their free day tomorrow. 
+
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/Screen%20Shot%202020-11-10%20at%202.37.16%20PM.png "Jane's Journey Map")
 
 You can see both of my user personas [here](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/README.md).
 
