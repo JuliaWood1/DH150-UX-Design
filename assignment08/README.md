@@ -13,8 +13,8 @@ Before creating BooL, I analyzed two existing popular retail websites, Zara and 
 
 What I found from this analysis is that ZARA’s unique website does not adhere to several industry standard UX practices which results in users being confused and frustrated when navigating their site. On the other end of the spectrum, Hautelook’s design is rather simplistic and boring which could deter younger users from interacting with it at all. BooL fits in the perfect sweet spot of intriguing yet intuitive interface design, so all users can navigate the app with ease and pleasure.
 
-- [Here you can read more about the heuistic evaluation of ZARA and Hautelook.](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
-- [Here you can read more about hte pilot usability test I conducted of ZARA](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
+- [Here you can read more about the heuristic evaluation of ZARA and Hautelook.](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
+- [Here you can read more about the pilot usability test I conducted of ZARA](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 
 # HTML
 
