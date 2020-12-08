@@ -9,7 +9,7 @@ BooL is the shippingless-shopping app of the future.
 
 BooL is the future of online shopping because it cuts out the middleman (more like, middlemen) between you and your clothes. With BooL, savvy shoppers can get new shoes, clothes, and even household items with the peace of mind that their purchase hasn’t had detrimental impacts on our shared home. BooL is a buying and selling app where users can browse, purchase, and pick-up antique and vintage items in their area. Users can view nearby items in mapview, filter by distance, price, or seller, and post items for sale through the easy-to-understand interface. Thanks to BooL users can shop without guilt!
 
-![no middleman](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png)
+![no middleman](https://juliawood1.github.io/DH150-UX-Design/assignment08/cutout-adtech-middleman.png)
 
 <img src="https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment08/cutout-adtech-middleman.png" alt="No Middleman">
 
