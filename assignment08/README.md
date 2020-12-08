@@ -37,6 +37,10 @@ Summary and link to your assignment folder
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment04/README.md)
 - Accessibility audits (color contrast)
 ## UX storytelling [persona+scenario, assignment05]
+
+In this step of the design process, I wanted to fully understand my future users and more specifically what motivates them to shop sustainably. Therefore I created two user personas: Jane and Elijah. Jane was a middle aged mom to two grown children who was motivated to shop sustainably by her daughter.  Elijah was a busy college student who was already committed to sustainable shopping practices, but wanted to try out a new platform. Through creating empathy maps, scenarios, and journey maps for each of these personas I gained valuable insights about the potential users for my app, BooL. It's so important to understand your user before you design an experience for them. When designers do not take the time to truly understand what motivates their user they can miss important aspects that will encourage users to interact with their design.
+
+
 Summary and link to your assignment folder
 - [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment05/README.md)
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
