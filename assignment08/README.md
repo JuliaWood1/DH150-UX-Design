@@ -68,6 +68,8 @@ You can read more about how I chose my specific design elements [here](https://g
 
 ## Low-fidelity Prototype 
 
+![alt text](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/Screen%20Shot%202020-12-08%20at%202.38.38%20PM.png)
+
 The low fidelity part of the project was actually the most difficult step for me. This is because you have to create your designs from scratch, whereas in the later design phases you can just tweak your initial low-fidelity wireframes. It is so important to first create a low-fidelity prototype of your interface design, so you can pinpoint flaws in your design before you move on to more difficult stages of prototyping. This iterative process of constantly testing and retesting your prototypes ensures that when your creation hits the market, users will innately understand how to navigate your interface. 
 
 Not only did I create [low-fidelity wireframes](https://docs.google.com/presentation/d/14I6syQIHZ066PEa7G0XNARaJVJX5WeURCuqU0xHJTFk/edit?usp=sharing), linked here. 
