@@ -136,15 +136,12 @@ Based on their feedback these are the changes I implemented:
 <!-- blank line -->
 
 
-[![THE-ALT-TEXT](http://img.youtube.com/vi/5b_IG_5moSY/0.jpg)](https://www.youtube.com/watch?v=5b_IG_5moSY "ALT-TEXT")
-
-
 ## Conclusion: what did you learn throughout the process?
 
 **Steep Learning Curve for InVision** When I first started prototyping in InVision, I couldn't even figure out how to move an icon. Eventually, I got more and more robust at making changes to my design. By the end I created 50 different screens all successfuly linked together. This took me a long time, but it was necessary to fully implement my three use cases. 
 
 **Necessity for User Feedback** Throughout the whole process the user feedback was crucial to determine what was working and what needs changing. Based on the users input, I changed the focus of my app from a regular shopping app to a sustainable shopping app that's looking towards the future rather than the past. Furthermore, I also changed the entry screen, main scrolling menu, the shapes of the clothing images and more.
 
-**Start Early** Designing is an interative process, so every time you finish one thing it signals the beginning of another step. That being said, designing an interface takes a long time, and so does testing this interface. So one has to start early in order to find time to complete all the necessaryr steps.What I learned throughout this project is that it is crucial to start early so you have the time to create a product that you will be proud to show off. 
+**Start Early** Designing is an iterative process, so every time you finish one thing it signals the beginning of another step. That being said, designing an interface takes a long time, and so does testing this interface. So one has to start early in order to find time to complete all the necessary steps. What I learned throughout this project is that it is crucial to start early so you have the time to create a product that you will be proud to show off. 
 
 
