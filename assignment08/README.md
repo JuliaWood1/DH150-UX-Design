@@ -1,6 +1,6 @@
 ## Introduction to the World of E-Commerce
 
-How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days (or even hours). While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our Planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Shipping emits air pollutants into our atmosphere, water polutants into our oceans, and greenhouse gases further warming Earth. BooL empowers communities to lessen their carbon footprint by eliminating shipping through shopping locally and used. 
+How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days (or even hours). While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Shipping emits air pollutants into our atmosphere, water polutants into our oceans, and greenhouse gases which further warms Earth. BooL empowers communities to lessen their carbon footprint by eliminating shipping through shopping locally. 
 
 BooL is the shippingless-shopping app of the future. 
 
@@ -27,9 +27,6 @@ What I found from this analysis is that ZARA’s unique website does not adhere 
 | ------------- | ------------- | 
 | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.11.07%20PM.png "ZARA")  | ![alt text](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-10-11%20at%203.12.01%20PM.png "Hautelook")  |
 
-
-- [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment01/README.md)
-- [read more](https://github.com/JuliaWood1/DH150-UX-Design/blob/master/assignment02/README.md)
 
 ## User Research (Contextual Inquiry)
 
