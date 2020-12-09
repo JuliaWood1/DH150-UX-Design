@@ -131,12 +131,12 @@ Based on their feedback these are the changes I implemented:
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hQUqdbd_buw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/5b_IG_5moSY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 
-[![THE-ALT-TEXT](http://img.youtube.com/vi/5b_IG_5moSY/0.jpg)](https://www.youtube.com/watch?v=hQUqdbd_buw "ALT-TEXT")
+[![THE-ALT-TEXT](http://img.youtube.com/vi/5b_IG_5moSY/0.jpg)](https://www.youtube.com/watch?v=5b_IG_5moSY "ALT-TEXT")
 
 
 ## Conclusion: what did you learn throughout the process?
