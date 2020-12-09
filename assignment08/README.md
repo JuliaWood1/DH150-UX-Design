@@ -127,7 +127,7 @@ Based on their feedback these are the changes I implemented:
 3. I also made all the clothing display images the same size because my classmates thought the different sizes were confusing. I received the same feedback on my impression test.
 
 
-## Pitch video - filled in with other video just to ensure the link works
+## Pitch video 
 
 <!-- blank line -->
 <figure class="video_container">
