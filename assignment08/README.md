@@ -3,6 +3,7 @@
 How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days (or even hours). While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our Planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Shipping emits air pollutants into our atmosphere, water polutants into our oceans, and greenhouse gases further warming Earth. BooL empowers communities to lessen their carbon footprint by eliminating shipping through shopping locally and used. 
 
 BooL is the shippingless-shopping app of the future. 
+![Bool Home](https://juliawood1.github.io/DH150-UX-Design/assignment08/Screen%20Shot%202020-12-08%20at%2012.36.09%20PM.png)
 
 
 ## Design Statement 
