@@ -1,3 +1,6 @@
+### Please follow this link to my final presentation website: 
+[Julia's Final Project](https://juliawood1.github.io/DH150-UX-Design/assignment08/)
+
 ## Introduction to the World of E-Commerce
 
 How humans connect and shop has evolved significantly over the past several decades; now anyone with an Amazon account can have products from across the world on their doorstep in a matter of days (or even hours). While the e-commerce systems that make this possible are impressive and beneficial, they also come at a great cost to our planet’s livelihood. Shipping is projected to account for 10% of all global emissions by 2050, granted that humanity can persevere through the upcoming climate disasters of the next three centuries. Shipping emits air pollutants into our atmosphere, water polutants into our oceans, and greenhouse gases which further warms Earth. BooL empowers communities to lessen their carbon footprint by eliminating shipping through shopping locally. 
